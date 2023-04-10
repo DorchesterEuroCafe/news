@@ -1,5 +1,5 @@
 ---
-title: Dorchester Euro Café
+title: Dorchester Euro Café News
 timezone: UTC
 collections:
   posts:
@@ -15,12 +15,12 @@ defaults:
   values:
     permalink: ''
 email: rachel@dorchestereurocafe.org.uk
-url: https://www.dorchestereurocafe.org.uk
+url: https://www.dorchestereurocafe.org.uk/news
 description: Plotting the route to rejoining the European Union through coffee, cake
   and conversation
 keywords: brexit, dorset, dorchester, EU, european, rejoin
 skills: 
-meta_author: Euro Cafe Dorchester
+meta_author: Euro Cafe Dorchester News
 google_verify: 
 bing_verify: 
 contact: static
